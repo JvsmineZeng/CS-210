@@ -1,4 +1,4 @@
-# CS-210
+# CS-210 - Project 3 - Corner Grocer Inventory Software
 
 ### Summarize the project and what problem it was solving.
 > The Corner Grocer application acts as an inventory software for the Corner Grocer store. It initially displays a menu which shows the user 4 options:
